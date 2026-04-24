@@ -12,7 +12,9 @@ Practice problems solved in Python as part of my journey to improve logical thin
 | 1004 | Simple Product | [1004-simple-product.py](BEGINNER/1004-simple-product.py) |
 | 1005 | Average 1 | [1005-average-1.py](BEGINNER/1005-average-1.py) |
 | 1006 | Average 2 | [1006-average-2.py](BEGINNER/1006-average-2.py) |
+| 1007 | Difference | [1007-difference.py](1007-difference.py) |
+| 1008 | Salary | [1008-salary.py](1008-salary.py) |
 
 ## Technologies
 - Python 3.9
-- Platform: [Beecrowd](https://judge.beecrowd.com/en/profile/787291)
+- Profile: [Beecrowd](https://judge.beecrowd.com/en/profile/787291)
